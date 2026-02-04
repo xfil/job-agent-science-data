@@ -1,0 +1,38 @@
+name: "Filipe Lopes"
+
+seniority: senior
+
+preferred_domains:
+  - bioinformatics
+  - research data
+  - data management
+  - epidemiology
+  - public health
+  - biodiversity informatics
+  - scientific collections
+  - museum informatics
+
+skills_keywords:
+  - python
+  - r
+  - statistics
+  - data management
+  - metadata
+  - FAIR
+  - research infrastructure
+  - modelling
+  - databases
+  - digitisation
+  - collections
+
+exclude_keywords:
+  - internship
+  - junior
+  - sales
+  - marketing
+  - recruiter
+
+museum_rules:
+  exclude_country: Portugal
+
+score_threshold: 0.75

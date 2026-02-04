@@ -1,0 +1,13 @@
+sources:
+
+  - name: EURAXESS
+    type: rss
+    url: "https://euraxess.ec.europa.eu/jobs/search/rss"
+
+  - name: ICOM
+    type: html
+    url: "https://icom.museum/en/get-involved/list-of-offers/"
+
+  - name: NatSCA
+    type: html
+    url: "https://www.natsca.org/jobs-archive"
